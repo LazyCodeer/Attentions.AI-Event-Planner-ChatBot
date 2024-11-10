@@ -1,7 +1,6 @@
-# AI Tour Planner 🗺️
+# ✨Wanderlust
 
 ## Prerequisites
-
 - Python 3.11+
 - Docker
 - MongoDB
